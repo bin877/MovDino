@@ -1,0 +1,1 @@
+./movdino input.txt output.txt interval 0.5
